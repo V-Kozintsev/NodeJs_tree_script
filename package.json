@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_tree_script",
+  "version": "1.0.0",
+  "description": "A NodeJS script to display a tree-like view of files and folders in a file system.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Kozintsev Victor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/V-Kozintsev/NodeJs_tree_script"
+  },
+  "license": "ISC"
+}
